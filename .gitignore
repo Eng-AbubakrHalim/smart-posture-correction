@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+env/
+
+# dlib model (large file — download separately from dlib.net)
+shape_predictor_68_face_landmarks.dat
+*.dat
+
+# Arduino build artifacts
+build/
+*.bin
+*.elf
+*.map
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
