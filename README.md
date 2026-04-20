@@ -174,6 +174,13 @@ The Python script uses a **7-frame rolling average** of the head pitch angle (fr
 - Wearable runs for ~4 hours on a 9V alkaline battery
 
 ---
+## Gallery
+
+![Award Ceremony](images/award_ceremony.jpg)
+[Award Ceremony](images/award_ceremony2.jpg)
+[Award Ceremony](images/award_ceremony3.jpg)
+[Award Ceremony](images/solidworks_casing.jpg)
+![PCB Front](images/pcb_front.jpg)
 
 ## Authors
 
