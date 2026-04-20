@@ -7,6 +7,21 @@ A full-stack wearable IoT system that monitors and corrects sitting posture in r
 
 ---
 
+## Gallery
+
+<p align="center">
+  <img src="images/award_ceremony.jpg" width="32%" alt="Award Ceremony"/>
+  <img src="images/award_ceremony2.jpg" width="32%" alt="Award Ceremony 2"/>
+  <img src="images/award_ceremony4.jpg" width="32%" alt="Award Ceremony 3"/>
+</p>
+
+<p align="center">
+  <img src="images/pcb_front.jpg" width="48%" alt="Custom PCB (CAPSTONE-C2G05)"/>
+  <img src="images/solidworks_casing.jpg" width="48%" alt="SolidWorks Enclosure Design"/>
+</p>
+
+---
+
 ## System Architecture
 
 ```
@@ -185,11 +200,4 @@ The Python script uses a **7-frame rolling average** of the head pitch angle (fr
 ## Authors
 
 **Abubakr M. Abdelhalim** — Electronics Design, PCB Layout, Firmware, Computer Vision Integration  
-Universiti Teknologi Malaysia — B.Eng. Electrical & Electronic Engineering  
-[LinkedIn](https://linkedin.com/in/abubakr-abdelhalim) · [GitHub](https://github.com/Eng-AbubakrHalim)
-
----
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
+Universiti Teknologi Mal
